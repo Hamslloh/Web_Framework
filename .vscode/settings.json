@@ -1,0 +1,9 @@
+{
+    "vscode.tsc.compiler.alertTSConfigChanges": "never",
+    "vscode.tsc.compiler.alertOnError": "never",
+    // .vscode/settings.json
+    "deno.enable": true,
+    "deno.import_intellisense_origins": {
+        "https://deno.land": true
+    }
+}
